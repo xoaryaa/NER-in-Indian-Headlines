@@ -1,7 +1,7 @@
 # Evaluating Named Entity Recognition (NER) Models on Indian English News Headlines
 
 <p align="center">
-  <img src="assets/banner.png" alt="Project Banner" width="800">
+  <img src="banner.png" alt="Project Banner" width="800">
 </p>
 
 <p align="center">
@@ -80,6 +80,9 @@ python -c "import stanza; stanza.download('en')"
 
 Compute agreement across model outputs on the same test set:
 
+<p align="center">
+  <img src="token_level_agreement.png" alt="Token-level agreement" width="600">
+</p>
 
 
 This script:
