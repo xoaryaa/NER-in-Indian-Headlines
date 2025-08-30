@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/xoaryaa/NER-in-Indian-Headlines/blob/main/notebooks/aist_conf_clean.ipynb">
+  <a href="https://colab.research.google.com/drive/1Rjxn4a2XeCP88S8CUWr9lvwiNG8_Szcs?usp=drive_open">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
   </a>
   <img src="https://img.shields.io/badge/python-3.10%2B-blue">
