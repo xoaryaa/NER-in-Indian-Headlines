@@ -51,7 +51,6 @@ python -c "import stanza; stanza.download('en')"
 > stanza>=1.8
 > transformers>=4.43
 > datasets>=2.20
-> seqeval>=1.2
 > scikit-learn>=1.4
 > matplotlib>=3.8
 > pandas>=2.2
