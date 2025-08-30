@@ -144,4 +144,4 @@ This project is released under the **MIT License**. See `LICENSE` for details.
 
 ## 📨 Contact
 - **Maintainer**: Arya Tayshete — avtayshete_b21@et.vjti.ac.in  
-- **Issues**: Please open a GitHub Issue with steps to reproduce.
+- **Issues**: Please open a GitHub Issue to reproduce.
