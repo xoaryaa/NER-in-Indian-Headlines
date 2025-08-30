@@ -115,20 +115,7 @@ This script:
 
 ---
 
-## 📜 Citation
-If you use this repo, please cite:
 
-```bibtex
-@inproceedings{tayshete2025indianner,
-  title        = {Evaluating Named Entity Recognition Models on Indian English News Headlines},
-  author       = {Tayshete, Arya},
-  year         = {2025},
-  note         = {Preprint},
-  url          = {https://github.com/xoaryaa/NER-in-Indian-Headlines}
-}
-```
-
----
 
 ## 📝 License
 This project is released under the **MIT License**. See `LICENSE` for details.
